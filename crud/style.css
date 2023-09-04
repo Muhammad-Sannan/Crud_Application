@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(51, 48, 90);
+}
+
+#main_title{
+    text-align: center;
+    background-color:rgb(152, 152, 243) ;
+    color: rgb(61, 65, 59);
+    padding: 20px;
+    font-weight: 700;
+    font-family:initial;
+}
+.box1 h2{
+    float: left ;
+    color: aliceblue;
+} 
+.box1 button{
+    float: right;
+}
+.container{
+    margin-top: 50px;
+}
+.box1 h6{
+    text-align: center;
+    color:red;
+}.box1 h5{
+    text-align: center;
+    color:rgb(46, 242, 85);
+}
